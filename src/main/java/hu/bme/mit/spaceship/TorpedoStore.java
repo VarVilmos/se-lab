@@ -52,7 +52,7 @@ public class TorpedoStore {
 
     return success;
   }
-
+//valami naon jo
   public boolean isEmpty(){
     return this.torpedoCount <= 0;
   }
